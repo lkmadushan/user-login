@@ -1,0 +1,61 @@
+h1, h2, h3, h4, h5, h6 {
+margin: 0 0 10px;
+}
+.container {
+max-width: 960px;
+margin: 0 auto;
+}
+.home {
+max-width: 685px;
+float: left;
+clear: both;
+position: absolute;
+}
+h2 {
+border-bottom: 1px dotted #000;
+padding-bottom: 5px;
+}
+.inner ul {
+margin-bottom: 15px;
+}
+.red {
+color: red;
+}
+ul.login {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+ul.login li {
+margin-bottom: 10px;
+}
+ul.login input {
+width: 250px;
+height: 30px;
+outline: none;
+text-indent: 5px;
+}
+ul.login button {
+width: 75px;
+height: 30px;
+text-align: center;
+font-weight: 700;
+}
+ul {
+padding: 0;
+margin: 0;
+}
+ul li {
+list-style: none;
+margin-bottom: 5px;
+}
+aside {
+float: right;
+clear: both;
+padding-left: 25px;
+border-left: 1px solid;
+}
+.error {
+margin: 15px 0px;
+font-size: 13px;
+}
